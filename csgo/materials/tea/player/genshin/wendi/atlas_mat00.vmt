@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	"$basetexture" "tea\player\genshin\wendi\atlas_mat00_color"
+
+	"$lightwarptexture" "tea\player\genshin\wendi\toon_all"
+
+	"$phong" "1"
+	"$phongfresnelranges" "[0 0 0]"
+	"$phongexponent" "5"
+
+	"$selfillum" "1"
+	"$selfillummask" "models/player/custom_player/toppi/teawaste/genshin/venti/atlas_mat00_selfillum"
+
+	"$nodecal" "1"
+}

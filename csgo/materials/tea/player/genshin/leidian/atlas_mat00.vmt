@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	"$basetexture" "tea\player\genshin\leidian\atlas_mat00_color"
+
+	"$lightwarptexture" "tea\player\genshin\leidian\toon_all"
+
+	"$nocull" "1"
+
+	"$phong" "1"
+	"$phongfresnelranges" "[0 0 0]"
+	"$phongexponent" "5"
+
+	"$selfillum" "1"
+	"$selfillummask" "models/player/custom_player/toppi/teawaste/genshin/raiden/atlas_mat00_selfillum"
+	"$selfillumtint" "[1.50 1.50 1.50]"
+
+	"$nodecal" "1"
+}

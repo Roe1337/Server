@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "tea/player/genshin/default/tea_tag_color"
+	"$nodecal" 1
+	"$translucent" 1
+}

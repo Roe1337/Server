@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$basetexture" "tea\player\genshin\wendi\venti_face_color"
+
+	"$lightwarptexture" "tea\player\genshin\wendi\toon_all"
+
+	"$phong" "1"
+	"$phongfresnelranges" "[0 0 0]"
+	"$phongexponent" "5"
+
+	"$nodecal" "1"
+}
