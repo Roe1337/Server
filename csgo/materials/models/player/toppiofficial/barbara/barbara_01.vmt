@@ -1,0 +1,9 @@
+Patch
+{
+	include "materials/models/player/toppiofficial/shared/shader/mmd_shader.vmt"
+	
+		insert
+		{
+			$basetexture "models/player/toppiofficial/barbara/barbara_01"
+		}
+}
